@@ -1,3 +1,3 @@
 <footer>
-	<p>Powered by PHP</p>
+	<p>Something Else!</p>
 </footer>
